@@ -1,7 +1,9 @@
 # George Meskhoradze 🧑‍💻
 
 **Location:** 🇬🇪 Georgia  
+
 **Email:** 📧 meskhoradzegio@gmail.com
+
 **GitHub:** 🌐 https://github.com/George-Meskhoradze
 
 ## Objective 🎯
