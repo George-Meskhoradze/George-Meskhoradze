@@ -12,14 +12,15 @@ I am a junior web developer without experience, but I am eager to make a differe
 
 ## Education 🎓
 
--   Self-taught web developer, 5 months of experience
+-   Self-taught web developer, 8 months of experience
 
 ## Skills 🚀
 
--   💻 Proficient in HTML, CSS, and SCSS
--   📖 Familiarity with JavaScript and ongoing learning
--   🎨 Ability to create responsive and mobile-friendly designs
--   📂 Understanding of Git version control system
--   🔥 Familiarity with popular front-end frameworks (React, Vue, etc.)
+-   💻 Proficient in HTML, CSS, SCSS, Styled-Components and Tailwind...
+-   📖 Familiarity with JavaScript and ongoing learning...
+-   📖 Familiar in React, Typescript and ongoing learning...
+-   🎨 Ability to create responsive and mobile-friendly designs...
+-   📂 Understanding of Git version control system...
+-   🔥 Familiarity with popular front-end frameworks (Angular, Vue, etc.)...
 
 Thank you for taking the time to check out my resume! I am motivated and ready to take on new challenges. If you have any questions or would like to get in touch, feel free to 📩 [contact me](meskhoradzegio@gmail.com).
